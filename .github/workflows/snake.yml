@@ -44,7 +44,13 @@ jobs:
       # Bước 4: Đảm bảo nhánh output tồn tại
       - name: Ensure output branch exists
         run: |
-          git fetch origin output || git checkout --orphan output
+          git fetch origin
+          if git show-ref --verify --quiet refs/heads/output; then
+            echo "Output branch exists"
+          else
+            git checkout -b output
+            git push origin output
+          fi
 
       # Bước 5: Triển khai lên nhánh output
       - name: Deploy to Output Branch
