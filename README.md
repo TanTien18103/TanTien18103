@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nguyễn Hồ Tân Tiến<br><br>A passionate and dedicated Back-End C# Developer from Vietnam, specializing in building scalable, high-performance server-side solutions, crafting secure APIs, and optimizing business logic using C# and .NET technologies. With a deep understanding of database architecture and a focus on efficient, maintainable code, I thrive in creating seamless, robust applications that power complex systems.<br><br>🌱 I’m currently learning ASP.NET Core, Entity Framework<br><br>💬 Ask me about: C#<br><br>📫 How to reach me: nguyenhotantien@gmail.com<br><br>⚡ Fun fact: chill guy but not chill when code :D
+Hi 👋, I'm Nguyễn Hồ Tân Tiến<br><br>A passionate and dedicated Back-End C# Developer from Vietnam, specializing in building scalable, high-performance server-side solutions, crafting secure APIs, and optimizing business logic using C# and .NET technologies. With a deep understanding of database architecture and a focus on efficient, maintainable code, I thrive in creating seamless, robust applications that power complex systems.<br><br>🌱 I’m currently learning ASP.NET Core, Entity Framework<br><br>💬 Ask me about: C#<br><br>📫 How to reach me: nguyenhotantien@gmail.com<br><br>⚡ Fun fact: Want that, do that, earn that.
 
 
 ## 🌐 Socials:
