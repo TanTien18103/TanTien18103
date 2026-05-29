@@ -10,15 +10,15 @@ Hi 👋, I'm Nguyễn Hồ Tân Tiến<br><br>A passionate and dedicated Back-En
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanTien18103&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanTien18103&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanTien18103&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TanTien18103&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TanTien18103&theme=radical&hide_border=false&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanTien18103&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanTien18103&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TanTien18103&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TanTien18103&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TanTien18103&limit=5&theme=radical&combine_all_yearly_contributions=true&v=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanTien18103&icon=10&color=13)](https://visitcount.itsvg.in)
