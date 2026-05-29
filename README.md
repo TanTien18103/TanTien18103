@@ -15,14 +15,6 @@ Hi 👋, I'm Nguyễn Hồ Tân Tiến<br><br>A passionate and dedicated Back-En
 ![](https://streak-stats.demolab.com?user=TanTien18103&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanTien18103&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TanTien18103&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=TanTien18103&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TanTien18103&icon=10&color=13)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
