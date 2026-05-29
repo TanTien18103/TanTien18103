@@ -11,7 +11,7 @@ Hi 👋, I'm Nguyễn Hồ Tân Tiến<br><br>A passionate and dedicated Back-En
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=TanTien18103&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TanTien18103&show_icons=true&theme=tokyonight)<br/>
 ![](https://streak-stats.demolab.com?user=TanTien18103&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanTien18103&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
